@@ -2,7 +2,7 @@
 ### [MalformedAddress]
 #### [Updated every 2~3 hours]
 
-# [Counting 1426 IPs]
+# [Counting 1428 IPs]
 
 # [Symptoms] 
 ###   [MalformedAddress]
